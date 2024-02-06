@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Fang Chat</string>
+    <string name="sendButtonText">Send</string>
+    <string name="sendEdittextText">Enter Message To Send</string>
+</resources>
